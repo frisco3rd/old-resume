@@ -1,0 +1,26 @@
+.jumbotron {
+	/* The vh stands for viewport height*/
+	height: 100%;
+	overflow: auto;
+	background-image: url();
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center, center;
+	background-repeat: no-repeat;
+	text-color: #ffffff;
+}
+.fab {
+	font-size: 2em;
+}
+ul {
+	width: 250px;
+	font-size: 0.8rem;
+}
+#contact-name {
+	padding-left: 1rem;
+}
+#projects {
+	padding-bottom: 10rem;
+}
